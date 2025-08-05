@@ -11,9 +11,6 @@ Welcome to our Umbraco code review submission template. This repository is desig
 5. Push your changes.
 6. Share the repo URL with us.
 
-If your repository is private, please add our GitHub team as a collaborator:
-**teamcomingsoon**
-
 ---
 
 ## ✅ What to Include
